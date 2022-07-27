@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "exception": "cpp",
+        "string": "cpp",
+        "regex": "cpp",
+        "*.tcc": "cpp",
+        "iostream": "cpp",
+        "cerrno": "cpp"
+    }
+}
